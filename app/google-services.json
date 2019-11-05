@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "201736369988",
+    "firebase_url": "https://veritabani-37858.firebaseio.com",
+    "project_id": "veritabani-37858",
+    "storage_bucket": "veritabani-37858.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:201736369988:android:bfdc1e0761363051",
+        "android_client_info": {
+          "package_name": "com.kodlab.ara_takip_sistemi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "201736369988-ke56931ua1f1monfn47qvktp1j1iq5s2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kodlab.ara_takip_sistemi",
+            "certificate_hash": "2e7bbfdf4eba00565d5a99deab801868812c1ede"
+          }
+        },
+        {
+          "client_id": "201736369988-cm8i53clrrlpdud44fiqvfmu596dcj0n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVG6MlP6BEKdVOy9Ijm5HWqpLHRyVjMXo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "201736369988-cm8i53clrrlpdud44fiqvfmu596dcj0n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
